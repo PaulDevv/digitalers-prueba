@@ -10,7 +10,7 @@
 
 - [Flotantes](/2_decimales.py)
 
-- Cadenas de texto
+- [Cadenas de texto](/3_cadenas.py) 
 
 - Listas
 
@@ -20,3 +20,5 @@
 
 - Diccionarios
 
+
+## Repaso de Paul
